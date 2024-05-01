@@ -1,11 +1,15 @@
 Research & Project approval (Part 1)
 
 #By Tshepiso Mafuyeka and zhabwe254
+
 #tshepisoroshina@gmail.com
+
 #
 
 #Project to be done in teams of 3 people
+
 #Ongoing project - started
+
 #Project will start Apr 26, 2024 5:00 AM,
 must end by May 3, 2024 5:00 AM
 
@@ -29,6 +33,8 @@ Lyrical Learning (GitHub) – by David Kwan (Cohort 8)
 Eggify (GitHub) – by Athena Deng (Cohort 7) & Samie Azad (Cohort 7)
 IdeaDog (GitHub) – by Brennan D Baraban (Cohort 7)
 Job Odyssey (GitHub) – by Susan Su (Cohort 7) & Christopher Choe (Cohort 7)
+
+
 Some things to think about
 Role
 Within the team you are on, we encourage you to take on the challenges that will be relevant for you to speak about in your (eventual) job search. For example, if your project is an ride-sharing clone, and you want to be a front end engineer, then it’s important to take on challenges with accessibility, interactive elements and user-interface. Likewise, if you are interested in backend engineering, it will be important to architect the API endpoints, data modeling and performance.
